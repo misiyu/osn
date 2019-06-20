@@ -1,0 +1,5 @@
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+default         59.42.210.190   0.0.0.0         UG    0      0        0 enp10s0
+59.42.210.184   *               255.255.255.248 U     0      0        0 enp10s0
+link-local      *               255.255.0.0     U     1000   0        0 enp10s0
